@@ -1,0 +1,200 @@
+<style>
+ @import url('https://fonts.googleapis.com/css2?family=Onest:wght@200&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+		@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@300&display=swap');
+		@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+		@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+		@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+    
+	*{
+		margin: 0;
+		padding:0; *reincia valores de margin y paddin asignados por el navegador.*/
+		}
+
+
+	 			h1{
+	font-size: 50px;
+	font-family: 'Cinzel Decorative', cursive;
+	font-style: normal;
+	font-weight: 400;
+			text-align: center;
+		}
+		h2{
+    font-family: 'Red Rose', cursive;
+    font-size: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+		}	
+	h6{
+		font-size: 20px;
+		font-family: 'montserrat'; 
+		font-weight: 200;
+	}
+.center {
+    text-align: center;
+    margin-top: 35px;
+    margin-right: 35px;
+    margin-left: 35px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+  
+}
+	#img_michael{
+			width: 180px;
+			height: 320px;
+			display:inline-block;
+			margin: 0 auto;
+		}
+	#img_bts{
+			width: 300px;
+			height: 210px;
+			border: 10px #C5B6B6;
+			display: block;
+			margin:10px;
+		}
+	#img_jungkook{
+			width: 300px;
+			height: 210px;
+			border: 10px #C5B6B6;
+			display: block;
+			margin:10px;
+		}
+		p{
+			font-family: 'Amatic SC', cursive;
+			font-size: 20px;
+			text-align: left;
+		}
+		header,nav,main,footer{
+			width:960px;
+			margin: 0 auto;
+			padding: 30px;
+		}
+		header{
+			     height: 100px;
+			background-color:#0D8FB0;
+			color: #0A253F;
+				text-align:center;
+			
+		}
+		nav{
+			     height: 30px;
+			 background-color:#59E1D7;
+			color: #B82C2E;
+			font-family: 'Montserrat', sans-serif;
+		}
+		nav a{
+			margin:0 30px;
+		}
+		a{
+    text-decoration: none;
+    padding-right: 24px;
+    padding-left: 17px;
+		}
+		main{
+				background-color:#17A48C;
+		}
+		main nav{
+			width: 500px;
+			text-align: center;
+		}
+		main nav a:link{
+			color: #C2FCFD;
+			font-weight: bold;
+		}
+		main nav a:visited{
+			color:#13BB60;
+			font-weight: 100;
+		}
+		main nav a:active{
+			color: red;
+				font-weight: lighter;
+		}
+		main nav a:hover{
+			color: #CA1EE8;
+			font-weight: bolder;
+		}
+		footer{
+    font-family: 'Oswald', sans-serif;
+    height: auto;
+    background-color: #F6C4F8;
+    color: #FDFCFC
+		}
+		section{
+			width: 800px;
+			margin:auto;
+			background-color: #DC7FF8;
+			padding: 30px;
+		}
+		main section{
+			width: 500px;
+			text-align: center;
+		}
+		main section a:link{
+			color: #CE53DC;
+			font-weight: bold;
+		}
+		main section a:visited{
+			color:#E40EDF;
+			font-weight: 100;
+		}
+		main section a:active{
+			color: red;
+				font-weight: lighter;
+		}
+		main section a:hover{
+			color: #CA1EE8;
+			font-weight: bolder;
+		}
+     audio,iframe{
+        display:block;
+        margin:10px auto;
+        }
+    video,iframe{
+    width:70%;
+    height:auto;
+    display:block;
+    margin:10px auto;
+        }
+form{
+    width:50%;
+    background-color:coral;
+    color:azure;
+    margin:30px auto;
+    padding:30pz;
+}
+input[type="text"]{
+    width:100%;
+    margin:10px 0px;
+    background-color: darkgrey;
+    color:azure;
+    padding:5px;
+}
+select{
+    width:100%;
+    background-color: darkgrey;
+    color:azure;
+    margin:10px 0px;  
+    padding:5px;
+}
+label{
+    font-weight:bolder;
+}
+.salto_linea{
+    display:block;
+    margin:10px 0px;
+}
+input[type="submit"]{
+    width:30%;
+    background-color: darkgrey;
+    color:antiquewhite;
+    font-weight: bold;
+    margin:10px auto;
+    border:3px solid white;
+        padding:10px;
+    
+}
+	</style>
+.center {
+}
